@@ -1,0 +1,31 @@
+Comment ca va ? 
+Bien$1$2 
+Moyen$1$2 
+Mal$1$2 
+--
+Belle journée ?
+Oui$1$2 
+Non$1$2 
+--
+La famille ?
+Oui$1$2  
+Non$1$2 
+---
+Bien ou bien ?
+Top$1$2  
+TOP TOP$1$2 
+SUper tip top$1$2 
+--
+Bien ou bien ?
+Top $1$2 
+TOP TOP$1$2 
+SUper tip top$1$2 
+---
+YO
+je suis joie$1$2 
+Non$1$2 
+--
+SAlut ? 
+Oui$1$2  
+Non$1$2 
+-----

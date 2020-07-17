@@ -1,0 +1,7 @@
+<RadioButton
+            android:text="?1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:checked="?2"
+	    android:id="@+id/?3"
+            />

@@ -1,0 +1,41 @@
+RadioGroup radioGroupq1_1;
+radioGroupq1_1 = (RadioGroup)findViewById(R.id.q1_1);
+radioGroupq1_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq1_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq1_1.getId()),radioGroupq1_1);
+RadioGroup radioGroupq1_2;
+radioGroupq1_2 = (RadioGroup)findViewById(R.id.q1_2);
+radioGroupq1_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq1_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq1_2.getId()),radioGroupq1_2);
+RadioGroup radioGroupq1_3;
+radioGroupq1_3 = (RadioGroup)findViewById(R.id.q1_3);
+radioGroupq1_3.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq1_3.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq1_3.getId()),radioGroupq1_3);
+
+-----
+
+RadioGroup radioGroupq2_1;
+radioGroupq2_1 = (RadioGroup)findViewById(R.id.q2_1);
+radioGroupq2_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq2_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq2_1.getId()),radioGroupq2_1);
+RadioGroup radioGroupq2_2;
+radioGroupq2_2 = (RadioGroup)findViewById(R.id.q2_2);
+radioGroupq2_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq2_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq2_2.getId()),radioGroupq2_2);
+
+-----
+
+RadioGroup radioGroupq3_1;
+radioGroupq3_1 = (RadioGroup)findViewById(R.id.q3_1);
+radioGroupq3_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq3_1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq3_1.getId()),radioGroupq3_1);
+RadioGroup radioGroupq3_2;
+radioGroupq3_2 = (RadioGroup)findViewById(R.id.q3_2);
+radioGroupq3_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
+radioGroupq3_2.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+LoadPreferences(Integer.toString(radioGroupq3_2.getId()),radioGroupq3_2);

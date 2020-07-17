@@ -1,0 +1,74 @@
+RadioGroup.OnCheckedChangeListener radioGroupOnCheckedChangeListenerDA =
+            new RadioGroup.OnCheckedChangeListener(){
+                @Override
+                public void onCheckedChanged(RadioGroup group, int checkedId) {
+                    switch(checkedId) {
+case R.id.q1_0_1:
+dq1_0 = 1;
+aq1_0 = 2 ;
+break;
+case R.id.q1_0_2:
+dq1_0 = 1;
+aq1_0 = 2 ;
+break;
+case R.id.q1_0_3:
+dq1_0 = 1;
+aq1_0 = 2 ;
+break;
+case R.id.q1_1_1:
+dq1_1 = 1;
+aq1_1 = 2 ;
+break;
+case R.id.q1_1_2:
+dq1_1 = 1;
+aq1_1 = 2 ;
+break;
+case R.id.q1_2_1:
+dq1_2 = 1;
+aq1_2 = 2  ;
+break;
+case R.id.q1_2_2:
+dq1_2 = 1;
+aq1_2 = 2 ;
+break;
+case R.id.q2_0_1:
+dq2_0 = 1;
+aq2_0 = 2  ;
+break;
+case R.id.q2_0_2:
+dq2_0 = 1;
+aq2_0 = 2 ;
+break;
+case R.id.q2_0_3:
+dq2_0 = 1;
+aq2_0 = 2 ;
+break;
+case R.id.q2_1_1:
+dq2_1 = 1;
+aq2_1 = 2 ;
+break;
+case R.id.q2_1_2:
+dq2_1 = 1;
+aq2_1 = 2 ;
+break;
+case R.id.q2_1_3:
+dq2_1 = 1;
+aq2_1 = 2 ;
+break;
+case R.id.q3_0_1:
+dq3_0 = 1;
+aq3_0 = 2 ;
+break;
+case R.id.q3_0_2:
+dq3_0 = 1;
+aq3_0 = 2 ;
+break;
+case R.id.q3_1_1:
+dq3_1 = 1;
+aq3_1 = 2  ;
+break;
+case R.id.q3_1_2:
+dq3_1 = 1;
+aq3_1 = 2 ;
+break;
+}}};

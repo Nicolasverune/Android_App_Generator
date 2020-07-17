@@ -1,0 +1,3 @@
+private int dq1_0,aq1_0,dq1_1,aq1_1,dq1_2,aq1_2,dq2_0,aq2_0,dq2_1,aq2_1,dq3_0,aq3_0,dq3_1,aq3_1;
+int depressionScore =dq1_0+dq1_1+dq1_2+dq2_0+dq2_1+dq3_0+dq3_1;
+int anxietyScore =aq1_0+aq1_1+aq1_2+aq2_0+aq2_1+aq3_0+aq3_1;

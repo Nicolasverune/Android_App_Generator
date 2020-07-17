@@ -1,0 +1,5 @@
+RadioGroup.OnCheckedChangeListener radioGroupOnCheckedChangeListenerDA =
+            new RadioGroup.OnCheckedChangeListener(){
+                @Override
+                public void onCheckedChanged(RadioGroup group, int checkedId) {
+                    switch(checkedId) {
