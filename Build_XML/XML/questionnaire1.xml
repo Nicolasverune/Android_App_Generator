@@ -9,7 +9,7 @@
     android:orientation="vertical" >
 
 <TextView
-        android:id="@+id/q1_0"
+        android:id="@+id/q1_-1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="top|center_horizontal"
@@ -22,10 +22,10 @@
         android:text="Comment ca va ? " />
 
 <RadioGroup
-        android:id="@+id/q1_1"
+        android:id="@+id/q1_0"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/q1_0"
+        android:layout_below="@+id/q1_-1"
         android:orientation="horizontal" >
         
 <RadioButton
@@ -58,10 +58,10 @@
         android:text="Belle journée ?" />
 
 <RadioGroup
-        android:id="@+id/q1_2"
+        android:id="@+id/q1_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/q1_1"
+        android:layout_below="@+id/q1_0"
         android:orientation="horizontal" >
         
 <RadioButton
@@ -87,10 +87,10 @@
         android:text="La famille ?" />
 
 <RadioGroup
-        android:id="@+id/q1_3"
+        android:id="@+id/q1_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/q1_2"
+        android:layout_below="@+id/q1_1"
         android:orientation="horizontal" >
         
 <RadioButton

@@ -1,5 +1,5 @@
 RadioGroup radioGroup?1;
 radioGroup?1 = (RadioGroup)findViewById(R.id.?1);
 radioGroup?1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListener);
-radioGroup?1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
+//radioGroup?1.setOnCheckedChangeListener(radioGroupOnCheckedChangeListenerDA);
 LoadPreferences(Integer.toString(radioGroup?1.getId()),radioGroup?1);

@@ -9,7 +9,7 @@
     android:orientation="vertical" >
 
 <TextView
-        android:id="@+id/q3_0"
+        android:id="@+id/q3_-1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="top|center_horizontal"
@@ -22,10 +22,10 @@
         android:text="YO" />
 
 <RadioGroup
-        android:id="@+id/q3_1"
+        android:id="@+id/q3_0"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/q3_0"
+        android:layout_below="@+id/q3_-1"
         android:orientation="horizontal" >
         
 <RadioButton
@@ -51,10 +51,10 @@
         android:text="SAlut ? " />
 
 <RadioGroup
-        android:id="@+id/q3_2"
+        android:id="@+id/q3_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/q3_1"
+        android:layout_below="@+id/q3_0"
         android:orientation="horizontal" >
         
 <RadioButton
